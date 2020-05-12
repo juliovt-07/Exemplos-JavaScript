@@ -21,4 +21,4 @@ Templates Strings
 #
 Tipagem Fraca
 #
-####'Tudo é Função'
+#### 'Tudo é Função'
